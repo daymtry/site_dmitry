@@ -1,0 +1,49 @@
+body{
+	background-image: url(https://www.bing.com/th/id/OGC.bead0ffe77a3fd513511c05dafb492e6?pid=1.7&rurl=https%3a%2f%2fmedia1.tenor.com%2fimages%2fbead0ffe77a3fd513511c05dafb492e6%2ftenor.gif%3fitemid%3d18105609&ehk=MHWo3ie4GvRJyXY8yCgALpSiDAZ%2fdgtQKQBZOeltG2M%3d);
+    background-size: 200px;
+	background-position: 100% 100%;
+	background-attachment: fixed;
+
+}
+p{
+	font-size: 50px;
+	color: red;
+}
+.p1{
+	text-align:center;
+	background-color: lightcyan;
+}
+.p2{
+	font-family: font-family: cursive;
+}
+.p3{
+	font-family: serif;
+	font-weight: 700;
+	text-decoration: underline;
+text-underline-position: under;
+text-decoration-color: red;
+text-decoration-style: wavy;
+}
+.p4{
+	font-family: "Gill Sans", sans-serif;
+	font-style: italic;
+	text-shadow: 2px -2px green,4px -4px brown;
+}
+.p5{
+	fontt-family: Georgia, serif;
+}
+.p6{
+font-family: 'Comfortaa', cursive;
+text-shadow: 0px 0px 10px green;
+}
+.p7{
+font-family: 'Montserrat', sans-serif;
+text-shadow: 2px -2px grey;
+}
+.p8{
+font-family: 'Pangolin', cursive;
+text-decoration: underline;
+text-underline-position: under;
+text-decoration-color: red;
+text-decoration-style: dashed;
+}

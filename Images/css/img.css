@@ -1,0 +1,27 @@
+body{
+	background-color: lightslategrey;
+	background-image: url(https://www.bing.com/th/id/OGC.99ce134bb2afa4c5e13efe99fb0fe7ab?pid=1.7&rurl=https%3a%2f%2fi.gifer.com%2fAq.gif&ehk=4%2bQe4Rg0uBvIQuHVurINCE8GKOMfJ3o7L%2bkaFp4UbIA%3d);
+	background-size: 300px;
+	background-position: 100% 100%;
+	background-attachment: fixed;
+}
+p{
+	color:lime; 
+	font-size:1in;
+	background-image:url(https://th.bing.com/th/id/OIP.h0KjiW_mkEjkXbf_EKwSwwHaEo?w=284&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7) ;
+	background-size:cover;
+}
+div{
+	width: 500px;
+	height: 500px;
+}
+.d1{
+	background-image: url(https://th.bing.com/th/id/OIP.HbitQMg155wOV1NBySeRvAHaE7?w=198&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7);
+	background-size: cover;
+}
+.img1{
+	width: 50%;
+	margin: auto;
+	display: block;
+	border-radius: 50%;
+	box-shadow: 20px 20px 50px blue;

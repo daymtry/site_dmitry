@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Kablammo&display=swap');
+body{
+	background-color: lawngreen;
+}
+p{
+	text-align: center;
+	font-size: 50px;
+	color:orange;
+	background-color: purple;
+	font-family: Kablammo,cursive;
+}
+table{
+	border: double 5px purple;
+	font-size: 24px;
+	width: 50%;
+}
+th{
+	border: solid 2px purple;
+}

@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap');
+body{
+	background-color: lightcoral;
+}
+p{
+	font-size: 50px;
+	text-align: center;
+	background-color: blueviolet;
+	color: red;
+	font-family: 'Pixelify Sans', cursive;
+}
+ul{
+	font-size: 24px;
+	color: green;
+}
+.l1 li{
+	padding-left: 10px;
+}
+.l1::marker{
+	color: green;
+}
+.li2 li::marker{
+	color: lime;
+	font-size: 1.2em;
+}
+ol{
+	margin-left: 50px;
+}

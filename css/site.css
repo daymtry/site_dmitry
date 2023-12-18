@@ -1,0 +1,39 @@
+body{
+	background-color: lame;
+}
+header{
+	height: 200px;
+	background-color: lightpink;
+}
+nav,aside{
+	width: 20%;
+	background-color: lightcoral;
+	height: 800px;
+	float: left;
+}
+h2{
+	text-align: center;
+}
+main{
+	width: 60%;
+	background-color: lightgreen;
+	height: 800px;
+	float: left;
+}
+footer{
+	height: 150px;
+	background-color: limegreen;
+	clear: both;
+}
+selection{
+	margin: 20px;
+}
+article{
+	margin: 10px;
+	border: dashed 2px green;
+	font-size: 24px;
+}
+iframe{
+	margin: auto;
+	display: block;
+}
